@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://apollzo.top/"/>
-  <updated>2017-11-03T08:22:15.188Z</updated>
+  <updated>2017-11-04T14:11:32.844Z</updated>
   <id>http://apollzo.top/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>categories</title>
+    <link href="http://apollzo.top/2017/11/04/categories/"/>
+    <id>http://apollzo.top/2017/11/04/categories/</id>
+    <published>2017-11-04T14:09:32.000Z</published>
+    <updated>2017-11-04T14:11:32.844Z</updated>
+    
+    <summary type="html">
+    
+      算法？
+    
+    </summary>
+    
+      <category term="C/C++" scheme="http://apollzo.top/categories/C-C/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
