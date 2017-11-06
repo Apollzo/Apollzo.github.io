@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://apollzo.top/"/>
-  <updated>2017-11-06T11:05:43.239Z</updated>
+  <updated>2017-11-06T11:14:47.469Z</updated>
   <id>http://apollzo.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://apollzo.top/2017/11/06/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/"/>
     <id>http://apollzo.top/2017/11/06/写在前面/</id>
     <published>2017-11-06T10:48:25.000Z</published>
-    <updated>2017-11-06T11:05:43.239Z</updated>
+    <updated>2017-11-06T11:14:47.469Z</updated>
     
     <content type="html"><![CDATA[<pre><code>其实早就有过尝试搭建博客的想法，但因为懒。。。。所以一直拖着。。前几天头脑一热就搭了，</code></pre><p>也是为了给自己建立一个存放算法笔记的平台。爆了两天肝，踩了无数坑（很弱智），翻了无数篇博客<br>。。（人老了理解能力也跟不上了）我的博客终于艰难的问世了。不过现在高兴还为时过早，因为还有<br>很多bug没有解决，很多功能没有加上去，以后慢慢完善吧，先上线再说。<br>    下面简单介绍一下我的这篇博客，主是当下</p>]]></content>
     
@@ -35,28 +35,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>categories</title>
-    <link href="http://apollzo.top/2017/11/04/categories/"/>
-    <id>http://apollzo.top/2017/11/04/categories/</id>
-    <published>2017-11-04T14:09:32.000Z</published>
-    <updated>2017-11-04T14:23:07.758Z</updated>
-    
-    <content type="html"><![CDATA[<p>算法算法</p>]]></content>
-    
-    <summary type="html">
-    
-      算法？
-    
-    </summary>
-    
-      <category term="C/C++" scheme="http://apollzo.top/categories/C-C/"/>
-    
-    
-      <category term="算法。。。。" scheme="http://apollzo.top/tags/%E7%AE%97%E6%B3%95%E3%80%82%E3%80%82%E3%80%82%E3%80%82/"/>
     
   </entry>
   
